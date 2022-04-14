@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "85065234813",
+    "firebase_url": "https://gate-b6a5b-default-rtdb.firebaseio.com",
+    "project_id": "gate-b6a5b",
+    "storage_bucket": "gate-b6a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85065234813:android:cc8fce66ddf04b7a74b414",
+        "android_client_info": {
+          "package_name": "com.mygate.gateres"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85065234813-u916djqmsje0v1b85jnv8u37m6fv9tuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4HVscmTS6XeFDMI_UVWBWH6Rs7QI8K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85065234813-u916djqmsje0v1b85jnv8u37m6fv9tuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85065234813:android:01efe2f805e406eb74b414",
+        "android_client_info": {
+          "package_name": "com.mygate.mygate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85065234813-u916djqmsje0v1b85jnv8u37m6fv9tuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx4HVscmTS6XeFDMI_UVWBWH6Rs7QI8K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85065234813-u916djqmsje0v1b85jnv8u37m6fv9tuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
